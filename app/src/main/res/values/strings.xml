@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WTF</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="label_note_id">Note Id</string>
+    <string name="label_note_title">Note Title</string>
+    <string name="go_to_login_button">GO TO LOGIN</string>
+    <string name="go_to_reg_button">GO TO REGISTRATION</string>
+</resources>

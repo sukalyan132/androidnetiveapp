@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_to_login_button">लॉगिन</string>
+    <string name="go_to_reg_button">खाता नहीं है? साइन अप करें</string>
+
+</resources>
